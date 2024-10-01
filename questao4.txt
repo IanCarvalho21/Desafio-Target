@@ -1,0 +1,14 @@
+4-Descubra a lógica e complete o próximo elemento:
+a) 1, 3, 5, 7, 
+b) 2, 4, 8, 16, 32, 64, 
+c) 0, 1, 4, 9, 16, 25, 36, 
+d) 4, 16, 36, 64, 
+e) 1, 1, 2, 3, 5, 8,
+f) 2,10, 12, 16, 17, 18, 19,
+
+Sequência a : uma sequência de números ímpares ou seja contados de 2 em 2, e o próximo número e 9.
+Sequência b : cada número é o dobro do anterior, e o próximo número é 128.
+Sequência c : A sequência segue o número ao quadrado 0²-1²-2²-3² etc, e o próximo número é 49.
+Sequência d : A sequência segue os números pares ao quadrado 2²-4²-6²-8² etc, e o próximo número é 100.
+Sequência e : Essa é a sequência de Fibonacci, onde cada número é a soma dos dois anteriores. e o próximo número é 13.
+Sequência f : a sequência é dada pelos números que escrito por extenso iniciam com a letra d, e o próximo número é 200.
