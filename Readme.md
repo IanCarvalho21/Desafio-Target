@@ -1,2 +1,2 @@
-Solução para as questões do desafio Target para a vaga de Estágio em Desenvolvimento
+Solução para as questões do desafio Target para a vaga de Estágio em Desenvolvimento,
 as questões que foram resolvidas em código foram feitas usando o VScode e podem ser executado usando o comando "node nomedoarquivo.js" pelo terminal ou cmd.
